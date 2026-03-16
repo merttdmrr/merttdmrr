@@ -3,7 +3,7 @@
 # Hey, I'm Mert Can Demir 👋
 ### Data Scientist · ML Engineer · LLM Integration Specialist
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-merttdmrr.github.io-00d4ff?style=for-the-badge)]([https://merttdmrr.github.io](https://merttdmrr.github.io/portfolio/))
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-merttdmrr.github.io-00d4ff?style=for-the-badge)](https://merttdmrr.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mert--can--demir1-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mert-can-demir1)
 [![Email](https://img.shields.io/badge/Email-itucandemir@hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itucandemir@hotmail.com)
 
